@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m a Back-End Engineer with 3+ years of experience in programming and analyzing data.
+- 🔭 I’m a Back-End Engineer with 5+ years of experience in programming and analyzing data.
 - 🌱 I’m currently learning and using Node.js, Express, HTML, CSS, JavaSript, AWS Cloud Service... etc.
 - 📫 Reach me: timmy304681@gmail.com
 
